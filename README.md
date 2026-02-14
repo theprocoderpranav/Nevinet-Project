@@ -1,4 +1,4 @@
-This project contains the .onnx file that was used for the Expo App created online, and also contains the model training python file, specified with model weights and dataset links. The model Pytorch file (.pth) file has been added and can be used with the correct model defintion (specified in the script). However, the dataset cannot be directly added to GitHub. 
+This project contains the .onnx file that was used for the Expo App created online, specified with model weights. However, the dataset cannot be directly added to GitHub. 
 
 
 
